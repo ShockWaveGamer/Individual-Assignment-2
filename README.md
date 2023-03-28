@@ -17,4 +17,5 @@ I primaraly used the water shader demonstrated in the lectures.
 To get the toon shading I changed the lighting model from Lambert to a custom Toon Ramp. 
 ![image](https://user-images.githubusercontent.com/88565667/228312197-d33d7a56-aaee-4e1e-819c-7b91a3d94cd1.png)
 ![image](https://user-images.githubusercontent.com/88565667/228312257-d8e0a8f8-0476-4215-b3b5-9ac2b0fa82b0.png)
+![image](https://user-images.githubusercontent.com/88565667/228312634-abd720d7-5386-49f9-b483-26dc2e27978a.png)
 
