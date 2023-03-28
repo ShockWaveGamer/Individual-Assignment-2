@@ -8,5 +8,6 @@
 - Deferred rendering offsets the task of calculating lighting in the first fragment shader until it has finished a first pass of all geometry in a scene at which poing it will run a second fragment shader focused on lighting the scene.
 
 ![image](https://user-images.githubusercontent.com/88565667/228311712-a55bd665-f3fd-4ac4-b0fb-06989088fd4c.png)
-![Screenshot 2023-03-28 124306](https://user-images.githubusercontent.com/88565667/228311785-0077e992-ab47-471b-a6e5-e9f63c8d8fb0.png)
+![Screenshot 2023-03-28 124527](https://user-images.githubusercontent.com/88565667/228311852-07e34c90-f3b6-4982-b3c9-b33e4af5772d.png)
+
 - A modifcation to the water shader I used demonstarted in class is the wave height modifier. Here I normalized the height to be a value either 1 or -1, and then multiplied it by the amplitude to. be able to scale the height later. 
