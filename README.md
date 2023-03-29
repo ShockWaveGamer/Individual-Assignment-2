@@ -27,7 +27,7 @@ You would need to calculate for three basic buffers. Color, Depth, and Surface N
 ![image](https://user-images.githubusercontent.com/88565667/228562948-6f85c043-77e0-4a09-9fff-ce813d3c8765.png)
 Please keep in mind that you are not being asked to recreate this scene faithfully. You are being asked to create one that is similar. You can explain your decisions on how you decided to tackle this task to ensure the scene resembles the designated one. The scene should present basic movements controlling the ship or the shark. 
 
-![image](https://user-images.githubusercontent.com/88565667/228311712-a55bd665-f3fd-4ac4-b0fb-06989088fd4c.png)
+![image](https://user-images.githubusercontent.com/88565667/228605733-8867abeb-67e5-4b2f-b9c6-bffae664fac5.png)
 
 ### Explain how the shaders were implemented. Explain the modifications done to the shaders and how they differ from the ones given in class and tutorials. If the shader does not present modifications, no points are awarded.  
 
